@@ -1,0 +1,9 @@
+cask "mimestream" do
+  version "0.7.3"
+  sha256 "b1268c56e63a466f9d4da22c191eb895b47f7936706b5dadf0f96f1ac2e9b146"
+  
+  url "https://storage.googleapis.com/mimestream-releases/Mimestream_{version}.dmg
+  name "Mimestream"
+  desc "A native macOS email client for Gmail"
+  homepage "https://mimestream.com/"
+end
